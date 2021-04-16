@@ -8,7 +8,7 @@ const Sidebar = () => {
       <ListGroup>
         <ListGroupItem>
           <Link className="nav-Link" to="/post/List">
-            Post
+            Post link
           </Link>
         </ListGroupItem>
       </ListGroup>
